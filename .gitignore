@@ -1,0 +1,77 @@
+# ===============================
+# RPG Maker .gitignore
+# ===============================
+
+# Ignore build / deployment output
+/www/
+/dist/
+/deploy/
+/output/
+/build/
+/release/
+/node_modules/
+/package-lock.json
+
+# RPG Maker MV / MZ specific temporary files
+/js/plugins.js
+/data/MapInfos.json.bak
+/data/*.bak
+/data/*.tmp
+
+# Backup and autosave files
+*.bak
+*.old
+*.tmp
+*.autosave
+*.log
+
+# Editor configuration and cache
+/config.rpgsave
+/js/pluginsConfig.json
+/save/
+/img/system/Window*.png
+/localsettings.json
+
+# Common RPG Maker VX / VX Ace / XP files
+/Backup/
+/Game.exe
+/Game.ini
+/Save*.rvdata
+/Save*.rvdata2
+/Save*.rxdata
+/Data/Map*.rvdata
+/Data/Map*.rvdata2
+/Data/Map*.rxdata
+/Data/Scripts.rvdata
+/Data/Scripts.rvdata2
+/Data/Scripts.rxdata
+/Audio/BGM/Theme*.*
+/Audio/SE/Decision*.*
+/Audio/ME/Mission*.*
+/Graphics/System/GameOver*.*
+/Graphics/System/Window*.*
+/Graphics/Titles1/Title*.*
+/Graphics/Titles2/Title*.*
+/Graphics/Faces/*.bak
+/Graphics/Characters/*.bak
+
+# Platform-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / OS files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Optional: ignore test folders if any
+/tests/
+/__tests__/
+/test/
+
+# Optional: ignore custom export folders
+/export/
+/releases/
+/archives/
