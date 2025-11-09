@@ -4,5 +4,5 @@ null,
 {"id":2,"expanded":false,"name":"Ice_map_monster","order":2,"parentId":1,"scrollX":1366.8,"scrollY":763.8},
 {"id":3,"expanded":true,"name":"núi lửa","order":3,"parentId":1,"scrollX":1366.8,"scrollY":763.8},
 null,
-{"id":5,"expanded":false,"name":"Map thường","order":4,"parentId":1,"scrollX":1088,"scrollY":624}
+{"id":5,"expanded":false,"name":"Map thường","order":4,"parentId":1,"scrollX":1366.8,"scrollY":763.8}
 ]
