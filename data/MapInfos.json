@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Lobby","order":1,"parentId":0,"scrollX":1366.8,"scrollY":763.8},
-{"id":2,"expanded":false,"name":"Ice_map_monster","order":2,"parentId":1,"scrollX":1366.8,"scrollY":763.8},
-{"id":3,"expanded":true,"name":"núi lửa","order":3,"parentId":1,"scrollX":1366.8,"scrollY":763.8},
+{"id":1,"expanded":true,"name":"Lobby","order":1,"parentId":0,"scrollX":1366.8,"scrollY":789.5999999999999},
+{"id":2,"expanded":false,"name":"Ice_map_monster","order":2,"parentId":1,"scrollX":1366.8,"scrollY":746.4},
+{"id":3,"expanded":true,"name":"núi lửa","order":3,"parentId":1,"scrollX":1366.8,"scrollY":746.4},
 null,
-{"id":5,"expanded":false,"name":"Map thường","order":4,"parentId":1,"scrollX":1366.8,"scrollY":763.8}
+{"id":5,"expanded":false,"name":"Map thường","order":4,"parentId":1,"scrollX":1366.8,"scrollY":746.4}
 ]
